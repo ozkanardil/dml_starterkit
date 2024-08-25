@@ -1,4 +1,4 @@
-# 🔐 .NET Core Starter Kit with JWT Authentication
+# 🔐 .NET Core Starter Kit: Open Source Contribution to the Dev Community
 
 Welcome to the **.NET Core Starter Kit**, a robust and flexible foundation for building .NET Core applications with JWT-based authentication. This project is designed to help you quickly get started with essential features such as user login, logging, and more. Whether you're an experienced developer looking to accelerate your next project or a beginner seeking to learn the fundamentals of .NET Core, this starter kit has you covered.
 
