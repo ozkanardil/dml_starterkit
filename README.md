@@ -19,8 +19,8 @@ Welcome to the **.NET Core Starter Kit**, a robust and flexible foundation for b
 
 ## Related Articles
 
-- [Installation Guide](https://your_medium_article_link_1](https://medium.com/@ozkanardil/dml-starterkit-installation-guide-free-open-source-net-core-starterkit-project-6246d0337f27)
-- [.NET 8 WebAPI Starterkit: Open Source Contribution to the Dev Community](https://your_medium_article_link_2](https://medium.com/@ozkanardil/net-8-webapi-starterkit-open-source-contribution-to-the-dev-community-8721dd7cdce0)
+- [Installation Guide](https://medium.com/@ozkanardil/dml-starterkit-installation-guide-free-open-source-net-core-starterkit-project-6246d0337f27)
+- [.NET 8 WebAPI Starterkit: Open Source Contribution to the Dev Community](https://medium.com/@ozkanardil/net-8-webapi-starterkit-open-source-contribution-to-the-dev-community-8721dd7cdce0)
 
 ## 🌟 Contributions Welcome!
 Feel free to fork the project, open issues, or submit pull requests. Let's make this starter kit even better together!
