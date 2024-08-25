@@ -14,8 +14,13 @@ Welcome to the **.NET Core Starter Kit**, a robust and flexible foundation for b
 
 ## 💡 How to Get Started?
 1. Clone the repository.
-2. Follow the setup instructions in the README.
+2. Follow the setup instructions in the Related Articles section.
 3. Customize the codebase to fit your project needs.
+
+## Related Articles
+
+- [How to Set Up the Project](https://your_medium_article_link_1)
+- [In-Depth Guide to the C# Project](https://your_medium_article_link_2)
 
 ## 🌟 Contributions Welcome!
 Feel free to fork the project, open issues, or submit pull requests. Let's make this starter kit even better together!
