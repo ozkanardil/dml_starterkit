@@ -6,6 +6,7 @@ using DmlStarterkit.Infrastructure.Security.JwtToken;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using DmlStarterkit.Infrastructure.Errors.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -91,6 +92,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors(builder => builder.WithOrigins("https://ard-digital.site", "http://localhost:4200", "http://localhost:7035", "http://localhost").AllowAnyHeader().AllowAnyMethod());
+
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseHttpsRedirection();
 
