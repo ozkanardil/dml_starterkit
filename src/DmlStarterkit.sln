@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmlStarterkit", "DmlStarterkit\DmlStarterkit.csproj", "{BA7E468E-A02B-40D8-BE40-AE246E8A9CF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DmlStarterkit", "DmlStarterkit\DmlStarterkit.csproj", "{BA7E468E-A02B-40D8-BE40-AE246E8A9CF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmlStarterkit.Application", "DmlStarterkit.Application\DmlStarterkit.Application.csproj", "{84411189-4A10-4F4B-876A-9B33031816FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DmlStarterkit.Application", "DmlStarterkit.Application\DmlStarterkit.Application.csproj", "{84411189-4A10-4F4B-876A-9B33031816FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmlStarterkit.Persistance", "DmlStarterkit.Persistance\DmlStarterkit.Persistance.csproj", "{5A827A96-B04F-4CFD-8B7C-EDE35D224620}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DmlStarterkit.Persistance", "DmlStarterkit.Persistance\DmlStarterkit.Persistance.csproj", "{5A827A96-B04F-4CFD-8B7C-EDE35D224620}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmlStarterkit.Domain", "DmlStarterkit.Domain\DmlStarterkit.Domain.csproj", "{2E6F5508-043A-4DBA-B788-0A893B16EF09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DmlStarterkit.Domain", "DmlStarterkit.Domain\DmlStarterkit.Domain.csproj", "{2E6F5508-043A-4DBA-B788-0A893B16EF09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmlStarterkit.Infrastructure", "DmlStarterkit.Infrastructure\DmlStarterkit.Infrastructure.csproj", "{6C9FE3E1-AEE5-4311-B233-C2DA61FA8E24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DmlStarterkit.Infrastructure", "DmlStarterkit.Infrastructure\DmlStarterkit.Infrastructure.csproj", "{6C9FE3E1-AEE5-4311-B233-C2DA61FA8E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmlStarterkit.Tests", "DmlStarterkit.Tests\DmlStarterkit.Tests.csproj", "{E7801178-7BAD-4F07-8139-0FC797E7065D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6C9FE3E1-AEE5-4311-B233-C2DA61FA8E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C9FE3E1-AEE5-4311-B233-C2DA61FA8E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C9FE3E1-AEE5-4311-B233-C2DA61FA8E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7801178-7BAD-4F07-8139-0FC797E7065D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7801178-7BAD-4F07-8139-0FC797E7065D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7801178-7BAD-4F07-8139-0FC797E7065D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7801178-7BAD-4F07-8139-0FC797E7065D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
